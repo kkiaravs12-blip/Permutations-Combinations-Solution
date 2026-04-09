@@ -29,7 +29,7 @@ This project focuses on visual learning, helping users understand mathematical c
 - math module
 
 # How to Run
-1. Clone the repository: git clone https://github.com/kkiaravs12/Permutations-Combinations-Solution.git
+1. Clone the repository: git clone https://github.com/kkiaravs12/Permutations-Combinations-Solution
 2. Install dependencies: pip install matplotlib
 3. Run the program: python per&comb.py
 
